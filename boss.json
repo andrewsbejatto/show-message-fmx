@@ -1,0 +1,9 @@
+{
+	"name": "show-message-fmx",
+	"description": "Unit contendo diversos modelos de mensagem de dialógos para firemonkey.",
+	"version": "0.0.1",
+	"homepage": "https://github.com/andrewsbejatto/show-message-fmx",
+	"mainsrc": "/",
+	"projects": [],
+	"dependencies": {}
+}
